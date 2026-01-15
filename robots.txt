@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://playzilla.celine-atelier-floral.ch/sitemap.xml
+Sitemap: https://farmaciamancinelliscanno.it/sitemap.xml
